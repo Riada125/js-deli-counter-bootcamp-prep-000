@@ -18,6 +18,9 @@ function takeANumberTwo(){
 }
 
 takeANumberTwo()
+takeANumberTwo()
+takeANumberTwo()
+takeANumberTwo()
 
 
 
