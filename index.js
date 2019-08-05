@@ -10,6 +10,18 @@ function takeANumber(line, name){
  return(`Welcome, ${name}. You are number ${position} in line.`);
 }
 
+function takeANumberTwo(){
+  let position = 0;
+  position++;
+  console.log(`Welcome, you are ticket number ${position}`);
+  
+}
+
+takeANumberTwo()
+
+
+
+
 function nowServing(line){
  
  //check if the line has more than 1 person in it
