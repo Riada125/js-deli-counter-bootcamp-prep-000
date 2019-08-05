@@ -10,8 +10,9 @@ function takeANumber(line, name){
  return(`Welcome, ${name}. You are number ${position} in line.`);
 }
 
+var position = 0;
+
 function takeANumberTwo(){
-  let position = 0;
   position++;
   console.log(`Welcome, you are ticket number ${position}`);
   
