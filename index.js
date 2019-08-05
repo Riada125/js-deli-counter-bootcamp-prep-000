@@ -1,6 +1,6 @@
 function takeANumber(line, name){
  
- //add the new customer's name to the line, adding to the end of the array 
+ //add the new customer's name to the line, adding to the end
   line.push(name);
   
   //position in line for the new customer is dictated by the indexOf names + 1
